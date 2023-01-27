@@ -13,11 +13,11 @@
                 <h1 class="big mble-fs" style="color: #000 !important">
                   SITE EN CONSTRUCTION <br /> <span style="font-weight: 300;">Se termine dans</span>
                 </h1>
-                <div class="spacer-single"></div>
-                <div class="spacer-single"></div>
-                <div id="defaultCountdown" class="countdown-s4"></div>
-                <div class="clearfix"></div>
-                <div class="spacer-single"></div>
+                <div class="spacer-single" style="margin-top:-2.5em;"></div>
+                <div class="spacer-single" style="margin-top:-2.5em;"></div>
+                <div id="defaultCountdown" class="countdown-s4" style="margin-top:-1.5em;"></div>
+                <div class="clearfix" style="margin-top:-1.5em;"></div>
+                <div class="spacer-single" style="margin-top:-1.5em;"></div>
               </div>
             </div>
           </div>
@@ -156,8 +156,8 @@
           </div>
         </div>
       </div>
-      <div class="mobile-format" style="display: flex; justify-content: center; align-items: center" >
-        <div class="social-icons big" style="padding: 0em !important">
+      <div class="mobile-format" style="display: flex; justify-content: center; align-items: center;" >
+        <div class="social-icons big" style="padding: 0em !important;margin-top:-3em;">
           <img src="{{asset('images/manel/logo-AH.png')}}" width="200" style="padding: 0.5em"/>
           <img src="{{asset('images/manel/quick-sms.png')}}" width="130" style="padding: 0.5em; margin-top: -0.7em"/>
           <img src="{{asset('images/manel/logo.png')}}" width="150" style="padding: 0.5em" />
